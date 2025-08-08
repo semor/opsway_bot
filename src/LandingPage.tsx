@@ -35,7 +35,7 @@ export default function LandingPage() {
 // ----------------------
 // Layout & shared
 // ----------------------
-const emailTarget = "start@opsway.com";
+const emailTarget = "EMAIL TARGET";
 const primaryCTA = "Help me to onboard AI Odoo Developer";
 const secondaryCTA = "Order Odoo AI developer";
 
